@@ -73,7 +73,7 @@ const TicTacToe = () => {
   return (
     <div className="container">
       <h1 className="title" ref={titleRef}>
-        Tic Toe Toe<span>React Morning Star</span>
+        Tic Toe Toe<span>Hidayat Morning Star</span>
       </h1>
       <div className="board">
         <div className="row1">
